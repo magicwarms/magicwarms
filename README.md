@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Peace be upon you all! 😄
+
+🤔 I’m looking for a new job as a Backend Engineer!
+📫 How to reach me? you can reach me on email, just send me an email: andhanautama@gmail.com!
+
+🌱 I’m currently learning Golang and the framework is Fiber!
+
+
+See you!
+
 <!--
 **magicwarms/magicwarms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
