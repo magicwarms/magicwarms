@@ -2,7 +2,6 @@
 
 Peace be upon you all! 😄
 
-🤔 I’m looking for a new job as a Backend Engineer!
 📫 How to reach me? you can reach me on email, just send me an email: andhanautama@gmail.com!
 
 🌱 I’m currently learning Golang and the framework is Fiber!
