@@ -6,7 +6,7 @@
 
 Peace be upon you all! 😄
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Senior Backend Engineer and contributing mostly on backend for building great apps.
 
 - :zap: In my free time, I build client's project and learn new things.
 
