@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi There 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/Qn74oPyaKYBpVWdA7t/giphy.gif" width="600" height="300"/>
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=magicwarms)
 
 Peace be upon you all! 😄
 
