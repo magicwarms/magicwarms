@@ -1,4 +1,4 @@
-### Hi There 👋
+### Hi There 👋 Peace be upon you all! 😄
 
 <div align="center">
   <img src="https://media.giphy.com/media/Qn74oPyaKYBpVWdA7t/giphy.gif" width="600" height="300"/>
@@ -6,7 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=magicwarms)
 
-Peace be upon you all! 😄
 
 - :telescope: Currently, I am looking for a new opportunity.
 
@@ -37,7 +36,6 @@ Peace be upon you all! 😄
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Redis" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" title="SocketIO" **alt="SocketIO" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" **alt="Sqlite" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="60" height="60"/>
 </div>
