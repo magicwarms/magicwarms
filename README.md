@@ -42,8 +42,6 @@ Peace be upon you all! 😄
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="60" height="60"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicwarms&layout=pie)](https://github.com/magicwarms/github-readme-stats)
-
 # 🏆 Trophies:
 [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=magicwarms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
