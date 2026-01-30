@@ -8,7 +8,7 @@
 
 Peace be upon you all! 😄
 
-- :telescope: Currentlly, I am looking for a new opportunity.
+- :telescope: Currently, I am looking for a new opportunity.
 
 - :zap: In my free time, I build client's project and learn new things.
 
@@ -44,10 +44,7 @@ Peace be upon you all! 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicwarms&layout=pie)](https://github.com/magicwarms/github-readme-stats)
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=magicwarms&theme=dark&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-
 # 🏆 Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=magicwarms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=magicwarms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 See you!
